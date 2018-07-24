@@ -1,0 +1,32 @@
+1. how to check variable`s type?
+
+we can use a python's function callled type()
+examples:
+>>>  type("book")
+>>>  type(123)
+>>>  type(10.5)
+
+
+2.In what cases, you will get SyntaxError from the compiler telling you 
+that some of your variables have invalid names? Can you give 3 different 
+examples of invalid names?
+
+we will get syntaxerror from the compiler if
+-variable name does not begin with a letter
+-variable name contains an illegal chracter
+-variable name is one of python keywords or funtions
+examples:
+>>>  4fun = "troll"
+>>> op@# = "money"
+>>> return = 250
+
+
+
+
+
+
+
+
+
+
+
