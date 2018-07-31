@@ -1,0 +1,16 @@
+1. What are the main functional differences between a while and a for?
+->the while loop is usually used when you need to repeat something until a given condition is true
+->the for loop is usually used when you need to iterate a given number of times
+
+2. What’s the difference between break and continue?
+->The continue statement causes an immediate jump to the top of a loop
+->The break statement causes an immediate exit from a loop
+
+3. When is a loop’s else clause executed?
+->the loop's else clause executed if the loop completes normally
+
+4. How can you code a counter-based loop in Python?
+-> we can use either a while or a for loop to code a counter-based loop
+
+5. What can a range be used for in a for loop?
+->in a for loop, a range can be used to implement a fixed number of repetitions
